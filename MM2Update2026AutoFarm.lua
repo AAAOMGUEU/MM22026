@@ -1,2 +1,2 @@
 -- hj
-loadstring(game:HttpGet("https://raw.githubusercontent.com/AAAOMGUEU/nobodyluvsmesosadLOL/refs/heads/main/bestautofarm.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AAAOMGUEU/MM22026/refs/heads/main/MM2Update2026AutoFarmBackup.lua"))()
